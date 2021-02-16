@@ -1,0 +1,14 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "description": "Displays info of system video files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KC Samm",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^11.2.3"
+  }
+}
